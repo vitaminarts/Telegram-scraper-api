@@ -1,53 +1,55 @@
 # Telegram-scraper-api
-An easy-to-use PHP api for Getting contents of Telegram's public channels and groups Messages without needing to join them.
+An **easy-to-use** PHP api for Getting contents of Telegram's public channels and groups Messages without needing to join them.
 
 https://apibot.ir/en_index.php
 
-⚬ Text
+⚬ **Text**
 
-⚬ Photos (Gallery Posts Supported)
+⚬ **Photos (Gallery Posts Supported)**
 
-⚬ Videos (Gallery Posts Supported)
+⚬ **Videos (Gallery Posts Supported)**
 
-⚬ Channel Members
+⚬ **Channel Members**
 
-⚬ Channel Description
+⚬ **Channel Description**
 
-⚬ Last Post Number
+⚬ **Last Post Number**
 
-⚬ Post View
+⚬ **Post View**
 
-⚬ Post date
+⚬ **Post date**
 
-⚬ Post Time
+⚬ **Post Time**
 
-⚬ Link Preview Title
+⚬ **Link Preview Title**
 
-⚬ Link Preview Description
+⚬ **Link Preview Description**
 
-⚬ Link Preview Image
+⚬ **Link Preview Image**
 
-⚬ Link Preview Video
+⚬ **Link Preview Video**
+
 
 
 -- How to submit a request ?
 
-Both POST and GET methods are supported.
+Both **POST** and **GET** methods are supported.
 
 -- Easy to Use
 
-The API is a simple and easy-to-use API that returns data as JSON.
+The API is a simple and **easy-to-use** API that returns data as **JSON**.
+
 
 
 Available Methods :
 
-⚬ getContents
+⚬ **getContents**
 
-⚬ getLatestPost
+⚬ **getLatestPost**
 
-⚬ getPostInfo
+⚬ **getPostInfo**
 
-⚬ getChannelInfo
+⚬ **getChannelInfo**
 
 
 read more https://apibot.ir/en_index.php
