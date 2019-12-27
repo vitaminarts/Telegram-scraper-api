@@ -31,17 +31,17 @@ https://apibot.ir/en_index.php
 
 
 
--- How to submit a request ?
+## -- How to submit a request ?
 
 Both **POST** and **GET** methods are supported.
 
--- Easy to Use
+## -- Easy to Use
 
 The API is a simple and **easy-to-use** API that returns data as **JSON**.
 
 
 
-Available Methods :
+## Available Methods :
 
 ⚬ **getContents**
 
