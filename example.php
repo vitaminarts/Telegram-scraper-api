@@ -1,17 +1,10 @@
 <?php
-
-/*  
- *  https://apibot.ir/en_index.php
- *  
- * 
+/*  https://apibot.ir/en_index.php
+ *   
  *  You can use the POST and GET method
- */
-
-/*
+ *
  *  Sign up for free at apibot.ir and get your own api key by email
- */
-
-/*
+ *
  * Methods : 
  *      1) getContents
  *      2) getLatestPost
@@ -45,8 +38,7 @@ $result = json_decode($contents);
 print_r($result);
 
 /* Output :
- *
- 
+ * 
         stdClass Object
         (
             [status] => ture
@@ -56,11 +48,7 @@ print_r($result);
                               🌐   apibot.ir
                     [link] => https://t.me/apibotir/9
                 )
-
         )
  
  *  */
-
-
-
 ?>
