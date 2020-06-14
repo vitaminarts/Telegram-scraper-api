@@ -1,5 +1,5 @@
 # Telegram-scraper-api
-An **easy-to-use** PHP api for Getting contents of Telegram's public channels and groups Messages without needing to join them.
+An **easy-to-use** PHP api for Getting contents of Telegram's public channels and groups Messages without need to join them.
 
 https://apibot.ir/en_index.php
 
