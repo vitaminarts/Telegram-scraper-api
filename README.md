@@ -49,12 +49,16 @@ The API is a simple and **easy-to-use** API that returns data as **JSON**.
 ## Available Methods :
 
 ⚬ **getContents**
+//This method returns the contents of the taget post
 
 ⚬ **getLatestPost**
+//This method returns the last post number of channel
 
 ⚬ **getPostInfo**
+//This method returns the information of the target post (seen numbers ,post time and etc...)
 
 ⚬ **getChatInfo**
+//This method returns the channel and group information (memebers number , description and etc...)
 
 
 read more https://apibot.ir
