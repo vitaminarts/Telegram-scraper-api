@@ -4,18 +4,31 @@ An **easy-to-use** PHP api for Getting contents of Telegram's public channels an
 https://apibot.ir
 
 ⚬ **Text**
+
 ⚬ **Photos (Gallery Posts Supported)**
+
 ⚬ **Videos (Gallery Posts Supported)**
+
 ⚬ **Channel Members**
+
 ⚬ **Channel Description**
+
 ⚬ **Last Post Number**
+
 ⚬ **Post View**
+
 ⚬ **Post date**
+
 ⚬ **Post Time**
+
 ⚬ **Post edit check**
+
 ⚬ **Link Preview Title**
+
 ⚬ **Link Preview Description**
+
 ⚬ **Link Preview Image**
+
 ⚬ **Link Preview Video**
 
 
