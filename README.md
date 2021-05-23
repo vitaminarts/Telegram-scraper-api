@@ -40,6 +40,8 @@ And More . . .
 
 Both **POST** and **GET** methods are supported.
 
+https://apibot.ir/api/telegram-scraper/[Method]
+
 ## -- Easy to Use
 
 The API is a simple and **easy-to-use** API that returns data as **JSON**.
